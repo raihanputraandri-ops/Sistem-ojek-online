@@ -1,9 +1,0 @@
-# Mengabaikan file konfigurasi database yang berisi password asli
-config/config.local.php
-
-# Mengabaikan folder vendor jika kamu pakai Composer
-/vendor/
-
-# Mengabaikan file log atau cache
-*.log
-.env
